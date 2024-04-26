@@ -1,4 +1,6 @@
-# The-Rickman
-Introction of myself
+# Hi there, I'm The-Richman
+I'm a data analyst AKA sql boy, here I share some of my work.
+# Github stats
 ![The-Rich's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Richman&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&=cn)
+# Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Richman)](https://github.com/anuraghazra/github-readme-stats)
